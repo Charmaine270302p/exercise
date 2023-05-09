@@ -21,10 +21,11 @@ sum(4,5);
 sum(10,5); 
 
 
- var name = 'John';
- var str ='Hello, ${name}!'; 
 
-var greeting = console.log('Hello,${name}!'); 
+
+var name  = 'John';
+console.log('Hello ' +  name)
+
 
 
 
